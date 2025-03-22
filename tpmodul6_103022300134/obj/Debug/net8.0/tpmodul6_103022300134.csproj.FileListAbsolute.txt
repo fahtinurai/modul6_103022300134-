@@ -1,0 +1,15 @@
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\bin\Debug\net8.0\tpmodul6_103022300134.exe
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\bin\Debug\net8.0\tpmodul6_103022300134.deps.json
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\bin\Debug\net8.0\tpmodul6_103022300134.runtimeconfig.json
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\bin\Debug\net8.0\tpmodul6_103022300134.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\bin\Debug\net8.0\tpmodul6_103022300134.pdb
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.AssemblyInfoInputs.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.AssemblyInfo.cs
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.csproj.CoreCompileInputs.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.sourcelink.json
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\refint\tpmodul6_103022300134.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.pdb
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\tpmodul6_103022300134.genruntimeconfig.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul6\tpmodul6_103022300134\tpmodul6_103022300134\obj\Debug\net8.0\ref\tpmodul6_103022300134.dll
